@@ -5,7 +5,8 @@ include_once 'dbconfig.php';
 if(isset($_GET['delete_id']))
 {
 	//delete logic here
-	
+	//this is dj logic 2 april 2018
+	//1232131
 }
 // delete condition
 
